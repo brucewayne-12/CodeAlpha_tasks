@@ -1,9 +1,11 @@
 import random
+
 words=["python","computer","programming","keyboard","internet"]
 word = random.choice(words)
 guessed_letters = []
 max_attempts=6
 attempts=0
+
 while attempts < max_attempts :
     display_word = ""
 
@@ -31,6 +33,7 @@ while attempts < max_attempts :
         attempts += 1
         print("Wrong guess! ")
         print("Incorrect guesses: ",attempts)
+        
 if attempts == max_attempts:
     print("Game Over !")
     print("The word was:",word)
