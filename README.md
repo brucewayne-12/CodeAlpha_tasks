@@ -1,41 +1,44 @@
-# CodeAlpha Internship Tasks
+# CodeAlpha Internship Tasks 🚀
 
-This repository contains the projects and tasks I completed as part of my **CodeAlpha Internship**.
+Welcome to my repository for the projects completed during my **CodeAlpha Internship**.
+
+This repository contains Python projects developed to improve my programming, problem-solving, and practical development skills.
 
 ## 📂 Projects
 
-### 1. Hangman Game
+### 🎮 1. Hangman Game
 
 A simple command-line Hangman game developed using Python.
 
 **Features:**
 - Random word selection
-- User input for guessing letters
+- Letter-by-letter guessing
 - Tracks guessed letters
-- Displays the progress of the word
+- Displays word progress
 - Handles incorrect guesses
+- Prevents repeated guesses
 
-📁 Project folder: `CodeAlpha_hangman_game`
+**Project:** `CodeAlpha_hangman_game`
 
-📄 Main file: `hangman.py`
+**Main file:** `hangman.py`
 
 ---
 
-### 2. Stock Portfolio Tracker
+### 📊 2. Stock Portfolio Tracker
 
-A Python-based stock portfolio tracker that calculates the total investment value based on stock prices and quantities.
+A Python program that calculates the value of a stock portfolio based on stock prices and the number of shares owned.
 
 **Features:**
 - Enter stock symbols
-- Enter number of shares
+- Enter share quantities
 - Calculate individual stock values
 - Calculate total investment value
-- Save the portfolio summary to a text file
-- Handles invalid inputs
+- Save portfolio summary to a text file
+- Handles invalid user input
 
-📁 Project folder: `CodeAlpha_stockportfolio`
+**Project:** `CodeAlpha_stockportfolio`
 
-📄 Main file: `Tracker.py`
+**Main file:** `Tracker.py`
 
 ---
 
@@ -44,7 +47,7 @@ A Python-based stock portfolio tracker that calculates the total investment valu
 - Python
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 
 ## 📁 Repository Structure
 
@@ -52,7 +55,8 @@ A Python-based stock portfolio tracker that calculates the total investment valu
 CodeAlpha_tasks
 │
 ├── CodeAlpha_hangman_game
-│   └── hangman.py
+│   ├── hangman.py
+│   └── README.md
 │
 ├── CodeAlpha_stockportfolio
 │   ├── Tracker.py
