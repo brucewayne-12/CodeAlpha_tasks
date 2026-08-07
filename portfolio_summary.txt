@@ -1,0 +1,6 @@
+=== Portfolio Summary ===
+AAPL: 100 shares x $180 = $18000
+TSLA: 20 shares x $250 = $5000
+MSFT: 203 shares x $310 = $62930
+
+Total Investment Value: $85930
